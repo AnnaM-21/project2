@@ -1,3 +1,6 @@
+.container {
+    max-width: 1200px;
+}
 .wrapper-head {
     background-image: url(../img/b-img-1.png);
     height: 750px;
@@ -35,6 +38,7 @@
 .hero {
     position: relative;
     height: 649px;
+    color: #fff;
         .container-hero {
         // max-width: 914px;
         // margin: 0 auto;

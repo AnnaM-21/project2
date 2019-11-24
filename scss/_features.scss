@@ -1,0 +1,20 @@
+.features {
+    padding: 120px 0;
+    .col-4 {
+        padding: 0 45px;
+        text-align: center;
+        .feature {
+            &-logo {
+                padding-bottom: 34px;
+            }
+            &-title {
+                text-transform: uppercase;
+                font-family: 'ralewaybold';
+                padding-bottom: 26px;
+            }
+        }
+    }
+}
+.padding-bottom {
+    padding-bottom: 75px;
+}
