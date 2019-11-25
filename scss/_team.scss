@@ -1,0 +1,35 @@
+.btn-icon {
+    color: #c6cacc;
+    background-color: #fff;
+    border: 1px solid #e8ecee;
+    height: 40px;
+    width: 40px;
+}
+.btn-icon:hover {
+    color: #66697e;
+    border: 1px solid #66697e;
+}
+.fa-facebook-f::before {content: "\f39e";}
+.fa-twitter::before {content: "\f099";}
+.fa-linkedin-in::before {content: "\f0e1";}
+.team {
+    padding: 101px 0;
+}
+.team-img {
+    padding-bottom: 31px;
+}
+.team-title {
+    padding-bottom: 30px;
+    p {
+        font-size: 22px;
+    }
+    span {
+        font-size: 13px;
+        text-transform: uppercase;
+        color: #e84545;
+    }
+}
+.team-description {
+    color: #6c7279;
+    padding-bottom: 31px;
+}
