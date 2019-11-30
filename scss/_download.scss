@@ -1,0 +1,26 @@
+.container-download {
+    max-width: 660px;
+    padding: 0 15px;
+    margin: 0 auto;
+    .download {
+        padding: 100px 0;
+        text-align: center;
+        &-title {
+            padding-bottom: 41px;
+            h2 {
+                font-family: 'ralewaylight';
+                font-size: 28px;
+            }
+            p {
+                font-family: 'ralewaybold';
+                font-size: 13px;
+                text-transform: uppercase;
+            }
+        }
+        &-button {
+            .btn {
+                padding: 19px 84px;
+            }
+        }
+    }
+}

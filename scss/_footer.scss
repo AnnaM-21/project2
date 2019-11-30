@@ -1,0 +1,37 @@
+
+ .footer-top {
+    background-color: #3a3e64;
+    .footer-card {
+        padding-top: 71px;
+        padding-bottom: 90px;
+        text-align: center;
+        color: #fff;
+        .card-title {
+            font-family: 'ralewaybold';
+            text-transform: uppercase;
+            padding-bottom: 20px;
+            margin: 0;
+        }
+        .card-description {
+            color: #9092a7;
+        }
+    }
+ }
+ .btn-share {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+.btn-share:hover {
+    color: #9092a7;
+    background-color: transparent;
+    border: 2px solid #9092a7;
+}
+.footer-bottom {
+    background-color: #313454;
+    &-title {
+        text-align: center;
+        color: #808080;
+        padding: 20px 0;
+    }
+}

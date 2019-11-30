@@ -39,6 +39,14 @@
     font-display: swap;
 }
 @font-face {
+    font-family: 'ralewaylight';
+    src: url('../fonts/raleway/raleway-light-webfont.woff2') format('woff2'),
+         url('../fonts/raleway/raleway-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
     font-family: 'Font Awesome 5 Free';
     font-style: normal;
     font-weight: 900;
